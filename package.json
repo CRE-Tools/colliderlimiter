@@ -2,7 +2,10 @@
     "name": "com.pucpr.colliderlimiter",
     "displayName": "Collider Limiter",
     "description": "",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "unity": "2019.3",
-    "changelogUrl": ""
+    "changelogUrl": "",
+    "_upm": {
+    "changelog": "Integration:\n\n- Adds a tool to create colliders on a specific layer, at the edge of the desired area."
+  }
 }
