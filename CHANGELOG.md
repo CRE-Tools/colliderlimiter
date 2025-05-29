@@ -1,3 +1,19 @@
+## [1.0.1] - 2025-05-29
+
+### Changed
+- Updated package description in package.json
+- Enhanced documentation in README.md:
+    - Comprehensive About section
+    - Detailed feature list with hierarchical structure
+    - GitFlow workflow requirements for contributions
+
+### Added
+- Detailed features documentation:
+    - ColliderLimiter component capabilities
+    - Custom attributes functionality
+    - Debug visualization tools
+    - CubeSides enumeration usage
+
 ## [1.0.0] - 2025-05-27
 
 ### Added
