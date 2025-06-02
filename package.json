@@ -2,7 +2,7 @@
     "name": "com.pucpr.colliderlimiter",
     "displayName": "Collider Limiter",
     "description": "A Unity tool to create and manage collision boundaries at the edges of specified areas with customizable properties.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "unity": "2019.3",
     "changelogUrl": "",
     "_upm": {
