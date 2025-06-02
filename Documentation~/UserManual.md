@@ -6,6 +6,7 @@
 > <a href="/Documentation~/UserManual.pdf">See this file in PDF</a>
 
 <h1 align="center">User Manual</h1>
+<p align="right">v1.0.3</p>
 
 ### Contents
 1. [Introduction](#introduction)
