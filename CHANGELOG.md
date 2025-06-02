@@ -1,3 +1,14 @@
+## [1.0.2] - 2025-06-02
+
+### Updated
+- Readme updated to the new template version
+- UserManual base to implement (content miss)
+- bug_report issue template to work with Unity example
+
+### Added
+- Contributing file
+
+
 ## [1.0.1] - 2025-05-29
 
 ### Changed
