@@ -2,7 +2,7 @@
     <img width="100" height="100" src="/Documentation~/logos/1024x.png" align="center" />
 </p>
 
-<h1 align="center">PUCPR - Collider Limiter</h1>
+<h1 align="center">Unity - Collider Limiter</h1>
 
 [About](#about) | [How to Install](#how-to-install) | <a href="/Documentation~/UserManual.md">Documentation</a> | <a href="/Documentation~/CONTRIBUTING.md">Contributing</a>
 
